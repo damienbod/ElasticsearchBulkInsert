@@ -1,0 +1,9 @@
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\ElasticsearchBulkInsert.exe.config
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\ElasticsearchBulkInsert.exe
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\ElasticsearchBulkInsert.pdb
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\ElasticsearchCRUD.dll
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\Newtonsoft.Json.dll
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\ElasticsearchCRUD.xml
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\bin\Debug\Newtonsoft.Json.xml
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\obj\Debug\ElasticsearchBulkInsert.exe
+C:\git\ElasticsearchBulkInsert\ElasticsearchBulkInsert\obj\Debug\ElasticsearchBulkInsert.pdb
